@@ -2,7 +2,6 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-KPI%20Measures-0078D4?style=for-the-badge)](https://learn.microsoft.com/dax/)
-[![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning-742774?style=for-the-badge)](https://learn.microsoft.com/power-query/)
 [![Star Schema](https://img.shields.io/badge/Data%20Model-Star%20Schema-F39C12?style=for-the-badge)](https://learn.microsoft.com/power-bi/guidance/star-schema)
 [![Supply Chain](https://img.shields.io/badge/Domain-Supply%20Chain-2E8B57?style=for-the-badge)](https://en.wikipedia.org/wiki/Supply_chain)
 [![GitHub](https://img.shields.io/badge/Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
