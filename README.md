@@ -53,8 +53,7 @@ The project uses a supply chain dataset containing order-level business informat
 
 The raw dataset is stored in the repository under:
 
-```text
-Raw Data/SupplyChainDataset.csv
+
 
 ##  Data Analytics Workflow
 
