@@ -341,10 +341,8 @@ Supply-Chain-Analytics-Dashboard/
 │   └── icons8-sales-100.png
 │
 └── README.md
-Dashboard Screenshots
 
-Add screenshots of the completed Power BI pages to the assets folder when available.
-
+```
 ---
 
 ## Recommended Screenshots
