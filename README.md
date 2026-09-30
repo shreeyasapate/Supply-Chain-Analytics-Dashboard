@@ -1,12 +1,12 @@
 # Supply Chain Analytics Dashboard
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?style=for-the-badge)](https://learn.microsoft.com/dax/)
-[![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-5C2D91?style=for-the-badge)](https://learn.microsoft.com/power-query/)
-[![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-orange?style=for-the-badge)](https://learn.microsoft.com/power-bi/guidance/star-schema)
-[![CSV](https://img.shields.io/badge/Data-CSV-217346?style=for-the-badge)](https://en.wikipedia.org/wiki/Comma-separated_values)
-[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![DAX](https://img.shields.io/badge/DAX-KPI%20Measures-0078D4?style=for-the-badge)](https://learn.microsoft.com/dax/)
+[![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning-742774?style=for-the-badge)](https://learn.microsoft.com/power-query/)
+[![Star Schema](https://img.shields.io/badge/Data%20Model-Star%20Schema-F39C12?style=for-the-badge)](https://learn.microsoft.com/power-bi/guidance/star-schema)
+[![Supply Chain](https://img.shields.io/badge/Domain-Supply%20Chain-2E8B57?style=for-the-badge)](https://en.wikipedia.org/wiki/Supply_chain)
+[![GitHub](https://img.shields.io/badge/Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
 ## Project Overview
 
 **Supply Chain Analytics Dashboard** is an interactive Power BI analytics solution designed to analyze and monitor supply chain performance across orders, sales, products, customers, shipping, delivery, departments, and regions.
