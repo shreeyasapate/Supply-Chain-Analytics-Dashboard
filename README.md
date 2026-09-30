@@ -4,8 +4,9 @@
 [![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?style=for-the-badge)](https://learn.microsoft.com/dax/)
 [![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-5C2D91?style=for-the-badge)](https://learn.microsoft.com/power-query/)
 [![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-orange?style=for-the-badge)](https://learn.microsoft.com/power-bi/guidance/star-schema)
-[![Git](https://img.shields.io/badge/Git-Version%20Control-critical?style=for-the-badge&logo=git)](https://git-scm.com/)
-
+[![CSV](https://img.shields.io/badge/Data-CSV-217346?style=for-the-badge)](https://en.wikipedia.org/wiki/Comma-separated_values)
+[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 ## Project Overview
 
 **Supply Chain Analytics Dashboard** is an interactive Power BI analytics solution designed to analyze and monitor supply chain performance across orders, sales, products, customers, shipping, delivery, departments, and regions.
