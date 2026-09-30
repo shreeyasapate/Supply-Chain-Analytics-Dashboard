@@ -327,23 +327,22 @@ Dashboard Screenshots
 
 Add screenshots of the completed Power BI pages to the assets folder when available.
 
-##Recommended screenshots:
+## Recommended Screenshots
 
- ### Home
-![Home Page](D:\Supply-Chain-Analytics-Dashboard\assets\home_page.png)
-
+### Home
+![Home](assets/home_page.png)
 
 ### Executive Overview
-![Executive Overview](D:\Supply-Chain-Analytics-Dashboard\assets\executive_overview.png)
+![Executive Overview](assets/executive_overview.png)
 
 ### Product & Sales
-![Product & Sales](D:\Supply-Chain-Analytics-Dashboard\assets\product_sales.png)
+![Product & Sales](assets/product_sales.png)
 
 ### Shipping & Delivery
-![Shipping & Delivery](D:\Supply-Chain-Analytics-Dashboard\assets\shipping_delivery.png)
+![Shipping & Delivery](assets/shipping_delivery.png)
 
 ### Customer & Regional Analysis
-![ Customer & Regional Analysis](D:\Supply-Chain-Analytics-Dashboard\assets\customer_regional.png)
+![Customer & Regional Analysis](assets/customer_regional.png)
 
 ## How To Use
 
