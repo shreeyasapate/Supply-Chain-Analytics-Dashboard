@@ -1,78 +1,58 @@
-from pathlib import Path
+# Supply Chain Analytics Dashboard
 
-readme = """# 📊 Supply Chain Analytics Dashboard
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?style=for-the-badge)](https://learn.microsoft.com/dax/)
+[![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-5C2D91?style=for-the-badge)](https://learn.microsoft.com/power-query/)
+[![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-orange?style=for-the-badge)](https://learn.microsoft.com/power-bi/guidance/star-schema)
+[![Git](https://img.shields.io/badge/Git-Version%20Control-critical?style=for-the-badge&logo=git)](https://git-scm.com/)
 
-An interactive **Power BI Supply Chain Analytics Dashboard** built to analyze sales, orders, customers, products, shipping performance, delivery status, and regional performance.
+## Project Overview
 
-The project converts raw supply chain data into an interactive business intelligence solution with KPIs, charts, filters, and page navigation.
+**Supply Chain Analytics Dashboard** is an interactive Power BI analytics solution designed to analyze and monitor supply chain performance across orders, sales, products, customers, shipping, delivery, departments, and regions.
+
+The project transforms raw supply chain data into a structured analytical model and presents meaningful business insights through interactive dashboards, KPI cards, charts, slicers, and page navigation.
+
+The dashboard provides a centralized view of supply chain performance and enables users to explore business performance from multiple perspectives.
 
 ---
 
-## 📌 Project Overview
+## Business Objective
 
-Supply chain data contains information about orders, customers, products, sales, benefits, shipping, delivery, departments, and regions.
+Supply chain operations involve large amounts of order, product, customer, sales, shipping, and delivery data.
 
-The goal of this project is to transform the raw dataset into a structured Power BI dashboard that helps users:
+The objective of this project is to build an interactive Power BI dashboard that helps users:
 
-- Monitor overall business performance
-- Analyze sales and benefits
+- Monitor overall order performance
+- Analyze sales and benefit
 - Understand product performance
-- Track shipping and delivery performance
-- Analyze customer behavior
+- Track shipping performance
+- Monitor delivery status and late deliveries
+- Analyze customer performance
 - Compare regional performance
-- Identify late-delivery patterns
-- Explore the data interactively using filters and navigation
+- Identify important trends and patterns
+- Support data-driven business decisions
 
 ---
 
-## 🎯 Project Objectives
+## Dataset Information
 
-The main objectives of this project are:
+The project uses a supply chain dataset containing order-level information related to:
 
-1. Clean and prepare the raw supply chain data.
-2. Build a structured data model in Power BI.
-3. Create DAX measures for important business KPIs.
-4. Design an interactive multi-page dashboard.
-5. Analyze sales, orders, customers, products, shipping, and regions.
-6. Present business information through clear and easy-to-understand visualizations.
+- Orders
+- Customers
+- Products
+- Product Categories
+- Departments
+- Sales
+- Benefit
+- Shipping
+- Delivery Status
+- Delivery Risk
+- Shipping Modes
+- Order Regions
+- Customer Segments
 
----
-
-## 🛠️ Tools & Technologies
-
-| Tool | Purpose |
-|---|---|
-| **Power BI Desktop** | Dashboard development and visualization |
-| **Power Query** | Data cleaning and transformation |
-| **DAX** | KPI and analytical measure creation |
-| **CSV** | Source dataset |
-| **Git** | Version control |
-| **GitHub** | Project repository and portfolio |
-
----
-
-## 📂 Project Structure
+### Dataset File
 
 ```text
-Supply-Chain-Analytics-Dashboard/
-│
-├── Power_BI_Report/
-│   └── Supply Chain.pbix
-│
-├── Raw Data/
-│   └── SupplyChainDataset.csv
-│
-├── assets/
-│   ├── icons8-benefit-58.png
-│   ├── icons8-box.gif
-│   ├── icons8-cash-48.png
-│   ├── icons8-customers-48.png
-│   ├── icons8-delivery-time.gif
-│   ├── icons8-order-100 (1).png
-│   ├── icons8-order-100.png
-│   ├── icons8-order-64.png
-│   ├── icons8-percentage-64.png
-│   ├── icons8-sales-100 (1).png
-│   └── icons8-sales-100.png
-│
-└── README.md
+Raw Data/SupplyChainDataset.csv
