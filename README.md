@@ -51,9 +51,7 @@ The project uses a supply chain dataset containing order-level business informat
 - Shipping modes
 - Customer segments
 
-The raw dataset is stored in the repository under:
-
-
+---
 
 ##  Data Analytics Workflow
 
@@ -71,6 +69,8 @@ Interactive Analysis
         ↓
 Business Insights
 
+---
+
 # Data Model
 
 The Power BI report uses a fact-and-dimension structure based on a star-schema approach.
@@ -85,6 +85,8 @@ Dim_Department
 Dim_Order
 
 The dimension tables are connected to the main fact table to support filtering, aggregation, and interactive analysis.
+
+---
 
 
 # Dashboard Pages
@@ -183,6 +185,8 @@ Order Region
 Category Name
 Shipping Mode
 
+---
+
 
 ## Key Performance Indicators
 KPI	Description
@@ -253,6 +257,8 @@ DIVIDE(
     0
 )
 
+---
+
 ## Interactive Features
 
 The dashboard includes:
@@ -270,7 +276,7 @@ Shipping analysis
 Delivery analysis
 
 
-ey Business Questions
+### Business Questions
 Sales Performance
 What is the total sales performance?
 Which product categories generate the most sales?
@@ -289,17 +295,29 @@ Regional Performance
 Which regions generate the highest sales?
 Which regions have the highest number of orders?
 
- 
- #  Tools & Technologies
+ ---
+
+
+#  Tools & Technologies
+
 Power BI Desktop — Dashboard development
+
 Power Query — Data cleaning and transformation
+
 DAX — Analytical measures and KPIs
+
 Data Modeling — Fact and dimension modeling
+
 CSV — Source data
+
 Git — Version control
+
 GitHub — Repository and project documentation
 
-#Repository Structure
+---
+
+
+## Repository Structure
 
 Supply-Chain-Analytics-Dashboard/
 │
@@ -327,6 +345,8 @@ Dashboard Screenshots
 
 Add screenshots of the completed Power BI pages to the assets folder when available.
 
+---
+
 ## Recommended Screenshots
 
 ### Home
@@ -344,6 +364,9 @@ Add screenshots of the completed Power BI pages to the assets folder when availa
 ### Customer & Regional Analysis
 ![Customer & Regional Analysis](assets/customer_regional.png)
 
+
+---
+
 ## How To Use
 
 Clone or download this repository.
@@ -352,6 +375,8 @@ Open Supply Chain.pbix using Power BI Desktop.
 Use the page navigator at the top to move between dashboard pages.
 Use slicers to filter the analysis.
 Interact with charts to explore supply chain performance.
+
+---
 
 
 ## Project Highlights
@@ -376,6 +401,8 @@ Interact with charts to explore supply chain performance.
 
 ✔ Git & GitHub Version Control
 
+---
+
 # Skills Demonstrated
 
 Data Cleaning
@@ -392,5 +419,6 @@ Git
 GitHub
 Future Improvements
 
+---
 
 
