@@ -318,7 +318,7 @@ GitHub — Repository and project documentation
 
 
 ## Repository Structure
-
+```text
 Supply-Chain-Analytics-Dashboard/
 │
 ├── Power_BI_Report/
